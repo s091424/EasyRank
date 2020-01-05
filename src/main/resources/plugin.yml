@@ -1,0 +1,7 @@
+name: EasyRank
+main: me.clayclaw.easyrank.EasyRank
+version: 0.0.2
+api-version: 1.15
+depend:
+  - Reactant
+  - Vault
